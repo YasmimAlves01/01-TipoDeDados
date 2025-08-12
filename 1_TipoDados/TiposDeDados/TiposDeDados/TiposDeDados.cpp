@@ -49,7 +49,7 @@ int main()
 	cout << endl << endl;
 
 	cout << "Qualquer tecla para continuar...";
-	system("pause"); // somente no Windows
+	system("pause"); //somente no Windows
 	system("cls");
 
 	cout << "Entrada de Dados" << endl;
@@ -73,6 +73,7 @@ int main()
 	cout << "Sua idade em horas e: " << horas << endl;
 	cout << "Sua idade em minutos e: " << minutos << endl;
 	cout << "Sua idade em segundos e: " << segundos << endl;
+	cout << "Voce esta ficando velhinho em hahah" << endl;
 
 	cout << "Qualquer tecla para sair...";
 	system("pause"); // somente no Windows
